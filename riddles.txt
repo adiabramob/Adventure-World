@@ -1,0 +1,10 @@
+# Format: x,y,room|question|answer
+# The answer must be one word (the game reads a single word), all lowercase.
+16,20,0|What has keys but can't open locks?|piano
+42,10,0|What gets wetter the more it dries?|towel
+73,20,0|What has to be broken before you can use it?|egg
+30,7,1|What has hands but can't clap?|clock
+40,14,1|What has a neck but no head?|bottle
+20,20,1|I'm tall when I'm young and short when I'm old. What am I?|candle
+6,10,2|What can you catch but not throw?|cold
+8,18,2|How many bits are in a byte?|8

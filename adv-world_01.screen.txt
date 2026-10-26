@@ -1,0 +1,35 @@
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wL                 w                                                           w
+w                  w                                                           w
+w                  w                                                           w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+w  w     w         w                         w        wwwwwwww         wwwwwwwww
+w  w  w  w  w      w      wwwwww       w     w     w  w      w      w          w
+w  w  w  w  w      w           w       w     w     w  w  w   w      wwwwwwwwww w
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      wwwwwww     w       w     w     w  w  w   w      w  wwwwwwwww
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      w    wwwwwwww       w     w     w  w  w   w      wwwwwwwww  w
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      wwwwwww     w       w     w     w  w  w   w      w  wwwwwwwww
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      w    wwwwwwww       w     w     w  w  w   w      w          w
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      wwwwwwww    w       w     w     w  w  w   w      w          w
+w  w  w  w  w wwwwww           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      w           w       w     w     w  w  w   w      w          w
+w  w  w  w  w      w    wwwwwwww       w     w     w  w  w   w      w          w
+w  w  w  w  w      w           w       w     w     w     w   w      w          w
+w  w  w  w  w      wwwwwwww    w       w     w     wwwwww    w      w          w
+w     w     w                  w       w           w                           w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+
+1 70 22 0 1
+* 3 0 30 5 31 5 32 5
+K 60 6 1 0
+K 60 7 2 0
+* 3 0 59 23 60 23 61 23
+# 3 0 52 23 53 23 54 23
+@ 20 6 0
+D 0

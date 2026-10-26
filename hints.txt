@@ -1,0 +1,4 @@
+# Format: x,y,room|message
+10,23,0|Pick up a key with the same number as the door to open it.
+25,12,1|Both switches must be turned on to open this door.
+4,6,2|It's dark in here. Find the way along the walls.
